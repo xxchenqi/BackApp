@@ -8,5 +8,5 @@
         android:onClick="startWifi"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="测试跳转wifi按钮2" />
+        android:text="测试跳转wifi按钮2===" />
 </RelativeLayout>
